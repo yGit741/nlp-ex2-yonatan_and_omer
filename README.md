@@ -25,7 +25,7 @@ This assignment uses an autograding system that may seem a bit different. Keep t
 ## Submission
 - **Notebook Link**: In the `notebook_link.txt` file, add the URL to your assignment's notebook, following the format provided in the example.
 - **Access**: Ensure the link has edit permissions enabled to allow modifications if needed.
-- **Deadline**: <font color='green'>06/06/2024, 23:55</font>.
+- **Deadline**: <font color='green'>12/06/2025, 23:59</font>.
 - **Platform**: Continue using GitHub for submissions. 
 
 ## General instructions
